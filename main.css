@@ -46,6 +46,7 @@
   		flex-wrap: wrap;
  	 	justify-content: center;
  	 	padding-bottom: 10px;
+
 	}
 	
 	.main2 {
@@ -65,6 +66,7 @@
  	 	padding: 0 10px;
  	 	padding-bottom: 20px;
  		display: inline-block; 
+
 	}	
 
 	nav ul {
