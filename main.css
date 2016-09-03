@@ -8,6 +8,37 @@
 		text-decoration: none;
 	}
 	
+	nav a {
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-size: 21px;
+		font-weight: 200;
+		line-height: 30px;
+		color: #F08080;
+		text-decoration: none;
+	}
+	
+	nav li {
+ 	 	padding: 0 10px;
+ 	 	padding-bottom: 20px;
+ 		display: inline-block; 
+
+	}	
+
+	nav ul {
+ 	 	display: block; 
+ 	 	text-align:center;
+	}
+	
+	body {
+		background-image: 
+		url("http://i1064.photobucket.com/albums/u375/michellenicole17/netback_zpsncz37lam.jpg");
+		background-size: cover;
+	}
+	
+	
+	
+		
+	
 	h3 {
 		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		font-size: 21px;
@@ -31,12 +62,6 @@
 		padding-bottom: 100px;
 	}
 	
-	.container {
-		background-image: 
-		url("http://i1064.photobucket.com/albums/u375/michellenicole17/netback_zpsncz37lam.jpg");
-		 background-size: cover;
-	}
-	
 	.description {
 		text-align: center;
 	}
@@ -49,29 +74,5 @@
 
 	}
 	
-	.main2 {
 
-	}
-	
-	nav a {
-		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-		font-size: 21px;
-		font-weight: 200;
-		line-height: 30px;
-		color: #F08080;
-		text-decoration: none;
-	}
-	
-	nav li {
- 	 	padding: 0 10px;
- 	 	padding-bottom: 20px;
- 		display: inline-block; 
-
-	}	
-
-	nav ul {
- 	 	display: block; 
- 	 	text-align:center;
-	}
-	
 	
