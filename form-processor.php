@@ -1,6 +1,6 @@
 <?php
 
-//isset determines if variable is not null
+	//isset determines if variable is not null
 	//$_POST gets data from the form
 if(!isset($_POST['submit']))
 	{
