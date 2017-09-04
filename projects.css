@@ -24,12 +24,19 @@
 	}	
 
 	nav ul {
+		padding-left: 10px;
  		display: block; 
  	 	text-align:center;
 	}
 
-	body {
-		background-image: 
-		url("http://i1064.photobucket.com/albums/u375/michellenicole17/netback_zpsncz37lam.jpg");
-		background-size: cover;
+	.container {
+	    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 15px;
+		color: #F08080;
+		text-decoration: none;
+		
+		text-align: center;
+		padding-bottom: 100px;
 	}
